@@ -1,16 +1,3 @@
-Sometimes it's important not to break a reader's flow by redirecting them away from your markdown document when they click on a link. In this case, such links should open up in a different tab in their browser, unfortunately, the commonMark [↗] document which is a specification for the Markdown syntax does not describe a way to implement this.
-
-https://www.eddymens.com/blog/how-to-make-a-markdown-link-open-in-another-tab
-
----
-
-Here's a paragraph that will be visible.
-
-[This is a comment that will be hidden.]: # 
-
-And here's another paragraph that's visible.
-
-
 # This is a demo
 
 *Lorem ipsum dolor* sit amet, **consectetur** adipiscing elit. Nullam ac venenatis nisl. Fusce et est mi. Pellentesque fringilla vel sapien a bibendum. Phasellus eu sollicitudin augue. Fusce ullamcorper maximus ante, quis pellentesque justo facilisis a. Nulla pellentesque finibus orci sit amet imperdiet. Mauris lorem nibh, sagittis in odio in, pharetra egestas neque. Sed in leo quis est molestie tristique. Sed augue sem, sodales ac nunc in, sagittis commodo nisl. Suspendisse vulputate auctor eros, sit amet lobortis sapien 
