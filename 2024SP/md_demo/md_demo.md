@@ -25,7 +25,7 @@ hendrerit non.
 > DO NOT FORGET TO BREATHE!
 
 
-
+<base target="_blank">
 You can [see more at FLCC](https://www.flcc.edu)
 
 http://www.flcc.edu
