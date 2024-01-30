@@ -1,0 +1,102 @@
+# This is a demo
+
+*Lorem ipsum dolor* sit amet, **consectetur** adipiscing elit. Nullam ac venenatis nisl. Fusce et est mi. Pellentesque fringilla vel sapien a bibendum. Phasellus eu sollicitudin augue. Fusce ullamcorper maximus ante, quis pellentesque justo facilisis a. Nulla pellentesque finibus orci sit amet imperdiet. Mauris lorem nibh, sagittis in odio in, pharetra egestas neque. Sed in leo quis est molestie tristique. Sed augue sem, sodales ac nunc in, sagittis commodo nisl. Suspendisse vulputate auctor eros, sit amet lobortis sapien 
+hendrerit non.
+
+> [!NOTE]
+> Useful information here
+
+> [!WARNING]
+> DO NOT FORGET TO BREATHE!
+1. Inhale
+2. Exhale
+
+> [!TIP]
+> TEST!
+
+> [!CAUTION]
+> DO NOT FORGET TO BREATHE!
+
+> [!IMPORTANT]
+> DO NOT FORGET TO BREATHE!
+
+You can [see more at FLCC](https://www.flcc.edu)
+
+http://www.flcc.edu
+
+www.flcc.edu
+
+[Will this work](www.flcc.edu)
+
+[Look at Dave.txt](dave.txt)
+
+* item 1
+    * Josh's bullet
+    * Josh's second subbullet
+      * A third level?
+* item 2 
+* item 3
+
+1. apples
+2. oranges
+    1. grapefruit
+3. potato chips
+    1. Cool ranch
+    2. Nacho cheese
+4. celery
+
+TODO
+- [x] Ask name
+- [ ] Ask age
+- [x] Echo name and age with a nice message
+
+Phasellus auctor pulvinar erat<sub>2</sub>, ut hendrerit magna posuere non<sup>3</sup>.
+
+## This is a subheading (Level 2)
+~~Maecenas rhoncus~~ dolor at ultricies placerat. Ut congue egestas faucibus. Fusce ornare odio dolor, vel commodo libero aliquet eget. Aenean sollicitudin dui erat, maximus porta nisi consectetur ac. Vestibulum finibus tempus tellus vitae tempus. Phasellus aliquet, nisi ut varius eleifend, ligula ipsum finibus odio, vel mattis magna sapien eu tortor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Pellentesque rhoncus justo ut lobortis semper. Vestibulum nec mauris sed tellus interdum luctus. Curabitur malesuada hendrerit ligula, quis viverra metus volutpat ac. Vivamus nunc enim, consectetur id felis in, hendrerit dictum nibh. Donec et maximus turpis, vitae pharetra turpis. Nulla at turpis sodales, sodales nunc in, ornare tortor. Nullam lectus felis, imperdiet bibendum magna eget, euismod varius magna. Etiam condimentum auctor tempor. Curabitur libero neque, euismod
+**a mauris ut, *finibus tempus* nulla.**
+
+# **a mauris ut, *finibus tempus* nulla.**
+
+***Nam dapibus nisl lacus, eget convallis*** nisl fermentum non. Pellentesque ut nulla vel ipsum elementum lacinia. Sed vel ullamcorper eros. Morbi ac faucibus justo, sed egestas nunc. Suspendisse a efficitur odio. Donec ac sagittis nulla. Sed sed imperdiet felis. Pellentesque volutpat sollicitudin venenatis. Pellentesque at lacinia purus, at gravida neque. Praesent sit amet fringilla ligula. Phasellus rutrum eu turpis eget gravida. Ut condimentum felis nec nibh volutpat blandit.
+
+### This is a `third` level
+
+This was Josh's ``idea``
+
+```java
+public static void main (String[] args) {
+    System.out.println("Hello World");
+}
+```
+
+```
+public static void main (String[] args) {
+    System.out.println("Hello World");
+}
+```
+
+```python
+print('hi');
+```
+
+
+>>Nam dapibus nisl `lacus`, eget convallis nisl fermentum non. Pellentesque ut nulla vel ipsum elementum lacinia. Sed vel ullamcorper eros. Morbi ac faucibus justo, sed egestas nunc. Suspendisse a efficitur odio. Donec ac sagittis nulla. Sed sed imperdiet felis. Pellentesque volutpat sollicitudin venenatis. Pellentesque at lacinia purus, at gravida neque. Praesent sit amet fringilla ligula. Phasellus rutrum eu turpis eget gravida. Ut condimentum felis nec nibh volutpat blandit.
+
+#### Shawshank Redemption
+
+Suspendisse a efficitur odio. Donec ac sagittis nulla. Sed sed imperdiet felis. Pellentesque volutpat sollicitudin venenatis. Pellentesque at lacinia purus, at gravida neque. Praesent sit amet fringilla ligula. Phasellus rutrum eu turpis eget gravida. Ut condimentum felis nec nibh volutpat blandit.
+
+> Get busy ***livin' or get busy dying***. Get busy livin' or get busy dying.Get busy livin' or get busy dying.Get busy livin' or get busy dying.Get busy livin' or get busy dying.Get busy livin' or get busy dying.Get busy livin' or get busy dying.Get busy livin' or get busy dying.Get busy livin' or get busy dying.
+
+Suspendisse a efficitur odio. Donec ac sagittis nulla. Sed sed imperdiet felis. Pellentesque volutpat sollicitudin venenatis. Pellentesque at lacinia purus, at gravida neque. Praesent sit amet fringilla ligula. Phasellus rutrum eu turpis eget gravida. Ut condimentum felis nec nibh volutpat blandit.
+
+![FLCC Exterior](https://flcc.edu/_rwd-branding/slides/winter-visit-lg.jpg)
+
+@flccdave
+
+:+1:
+:poop:
+::
+
+![Meme](https://i.imgur.com/7F6e4kM.png)
