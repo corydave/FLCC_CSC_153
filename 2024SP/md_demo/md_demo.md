@@ -24,6 +24,12 @@ hendrerit non.
 
 [Opens in new tab](https://external.ink?to=/daveghidiu.com)
 
+## Demo Markdown
+
+[button text‌](https://eddymens.com)
+
+<script src='https://cdn.jsdelivr.net/gh/eddymens/markdown-external-link-script@v2.0.0/main.min.js'></script>
+
 
 You can [see more at FLCC](https://www.flcc.edu)
 
