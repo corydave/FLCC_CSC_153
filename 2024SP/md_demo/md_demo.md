@@ -4,7 +4,12 @@ https://www.eddymens.com/blog/how-to-make-a-markdown-link-open-in-another-tab
 
 ---
 
-hi <ins>hello</ins>
+Here's a paragraph that will be visible.
+
+[This is a comment that will be hidden.]: # 
+
+And here's another paragraph that's visible.
+
 
 # This is a demo
 
