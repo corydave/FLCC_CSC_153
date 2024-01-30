@@ -1,4 +1,10 @@
-<base target="_blank">
+Sometimes it's important not to break a reader's flow by redirecting them away from your markdown document when they click on a link. In this case, such links should open up in a different tab in their browser, unfortunately, the commonMark [↗] document which is a specification for the Markdown syntax does not describe a way to implement this.
+
+https://www.eddymens.com/blog/how-to-make-a-markdown-link-open-in-another-tab
+
+---
+
+![Image](https://flcc.edu/_rwd-branding/slides/winter-visit-lg.jpg =300x200)
 
 # This is a demo
 
@@ -21,16 +27,6 @@ hendrerit non.
 
 > [!IMPORTANT]
 > DO NOT FORGET TO BREATHE!
-
-[Opens in new tab](https://external.ink?to=/daveghidiu.com)
-
-## Demo Markdown
-
-[button text‌](https://eddymens.com)
-
-<script src='https://cdn.jsdelivr.net/gh/eddymens/markdown-external-link-script@v2.0.0/main.min.js'></script>
-
-
 
 You can [see more at FLCC](https://www.flcc.edu)
 
