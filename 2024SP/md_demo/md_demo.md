@@ -4,7 +4,7 @@ https://www.eddymens.com/blog/how-to-make-a-markdown-link-open-in-another-tab
 
 ---
 
-![Image](https://flcc.edu/_rwd-branding/slides/winter-visit-lg.jpg =300x200)
+hi <ins>hello</ins>
 
 # This is a demo
 
