@@ -1,3 +1,5 @@
+<base target="_blank">
+
 # This is a demo
 
 *Lorem ipsum dolor* sit amet, **consectetur** adipiscing elit. Nullam ac venenatis nisl. Fusce et est mi. Pellentesque fringilla vel sapien a bibendum. Phasellus eu sollicitudin augue. Fusce ullamcorper maximus ante, quis pellentesque justo facilisis a. Nulla pellentesque finibus orci sit amet imperdiet. Mauris lorem nibh, sagittis in odio in, pharetra egestas neque. Sed in leo quis est molestie tristique. Sed augue sem, sodales ac nunc in, sagittis commodo nisl. Suspendisse vulputate auctor eros, sit amet lobortis sapien 
