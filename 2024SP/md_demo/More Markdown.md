@@ -19,7 +19,7 @@ Sometimes it's important not to break a reader's flow by redirecting them away f
 
 https://www.eddymens.com/blog/how-to-make-a-markdown-link-open-in-another-tab
 
-
+<br /><br />
 
 
 # SWEET HTML
@@ -28,6 +28,8 @@ https://www.eddymens.com/blog/how-to-make-a-markdown-link-open-in-another-tab
   <summary>Epcot Center</summary>
   <p>Epcot is a theme park at Walt Disney World Resort featuring exciting attractions, international pavilions, award-winning fireworks and seasonal special events.</p>
 </details>
+
+<br /><br />
 
 
 # TABLES
