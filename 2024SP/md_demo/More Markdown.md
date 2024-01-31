@@ -5,7 +5,9 @@ Here's a paragraph that will be visible.
 
 And here's another paragraph that's visible.
 
+<br /><br />
 
+![Screenshot](screenshot.png)
 
 # UNDERLINE
 <ins>a</ins>
