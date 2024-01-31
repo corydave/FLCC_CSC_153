@@ -28,3 +28,16 @@ https://www.eddymens.com/blog/how-to-make-a-markdown-link-open-in-another-tab
   <summary>Epcot Center</summary>
   <p>Epcot is a theme park at Walt Disney World Resort featuring exciting attractions, international pavilions, award-winning fireworks and seasonal special events.</p>
 </details>
+
+
+|Class |Return   |Status  |
+|:----:|--------:|:-------|
+| A    |    $5.00| final  |
+| C    | $1012.00| ongoing|
+
+
+|Name     |Grade    |Overall GPA |Year 
+|:-------:|--------:|:-----------|:---
+| Bart    | 36%     | 1.2        | 4
+| Lisa    | 100%    | 4.4.       | 3
+| Maggie  | N/A.    | N/A.       | K
