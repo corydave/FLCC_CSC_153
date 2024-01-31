@@ -7,7 +7,9 @@ And here's another paragraph that's visible.
 
 <br /><br />
 
-![Screenshot](screenshot.png)
+# IMAGES
+
+![Screenshot of my files](screenshot.png)
 
 # UNDERLINE
 <ins>a</ins>
